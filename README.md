@@ -2,9 +2,9 @@
 - Hi, I’m Priyank Maniya, Full Stack Developer experienced in Flutter and Dart with a strong background in mobile app development. Published multiple Flutter mobile applications on both App Store and Play Store. Proficient in integrating mobile applications with backend servers and databases. Strong commitment to delivering high-quality products and continuously improving user experience.
 
 **Skills**
-- Programming Languages: Dart, JavaScript, HTML, CSS
-- Frameworks and Libraries: Flutter, ReactJS, React Native
-- Backend and Database: Firebase (Realtime Database), MongoDB, Node.js
+- Programming Languages: C, C++, Python, Dart, JavaScript, HTML, CSS
+- Frameworks and Libraries: Flutter, ReactJS, CubeJs, React Native, BootStrap
+- Backend and Database: Firebase (Realtime Database), MongoDB, Node.js, ExpressJs, Django
 - State Management: Provider, GetX, Redux
 - Other Technologies: 
   - Firebase (Authentication, Push Notification, Analytics), 
